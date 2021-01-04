@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
-// Mount function to start up the app
+// Mount function to start up the app Adding commint
 const mount = (el) => {
   ReactDOM.render(<App />, el);
 };
